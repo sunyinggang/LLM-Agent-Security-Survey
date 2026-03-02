@@ -1,12 +1,18 @@
 # A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures
 
+[Paper link](https://www.preprints.org/manuscript/202602.1655) 
+
+<a href="https://www.preprints.org/manuscript/202602.1655" 
+   target="_blank" 
+   style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+   📥 Download Full Paper (PDF)
+</a>
 
 ![Agent Architecture and Threat Taxonomy](assets/fig2-new.png)
 The rapid evolution of Large Language Models (LLMs) from static text generators to autonomous agents has revolutionized their ability to perceive, reason, and act within complex environments. However, this transition from single-model inference to System Engineering Security introduces unique structural vulnerabilities—specifically instruction-data conflation, persistent cognitive states, and untrusted coordination—that extend beyond traditional adversarial robustness. To address the fragmented nature of the existing literature, this article presents a comprehensive and systematic survey of the security landscape for LLM-based agents. We propose a novel, structure-aware taxonomy that categorizes threats into three distinct paradigms: (1) External Interaction Attacks, which exploit vulnerabilities in perception interfaces and tool usage; (2) Internal Cognitive Attacks, which compromise the integrity of reasoning chains and memory mechanisms; and (3) Multi-Agent Collaboration Attacks, which manipulate communication protocols and collective decision-making. Adapting to this threat landscape, we systematize existing mitigation strategies into a unified defense framework that includes input sanitization, cognitive fortification, and collaborative consensus. In addition, we provide the first in-depth comparative analysis of agent-specific security evaluation benchmarks. The survey concludes by outlining critical open problems and future research directions, aiming to foster the development of next-generation agents that are not only autonomous but also provably secure and trustworthy.
 
 **📍 This is the first survey to establish a structure-aware security taxonomy—spanning external interaction, internal cognition, and multi-agent collaboration—for LLM agents.**
 
-Paper link: [A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures](https://www.preprints.org/manuscript/202602.1655) 
 
 ## Update Records
 - 2026-02-26: The first version of our survey has been released on preprints.
