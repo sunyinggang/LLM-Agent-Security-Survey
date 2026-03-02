@@ -1,7 +1,4 @@
 # A Survey on the Unique Security of Autonomous and Collaborative LLM Agents: Threats, Defenses, and Futures
-
-[Paper link](https://www.preprints.org/manuscript/202602.1655) 
-
 <a href="https://www.preprints.org/manuscript/202602.1655" 
    target="_blank" 
    style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
